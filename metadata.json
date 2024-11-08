@@ -1,0 +1,11 @@
+{
+  "name": "Crypto Marathon Runner",
+  "symbol": "CRUN",
+  "description": "Token pessoal do CryptoRunner.",
+  "image": "https://raw.githubusercontent.com/CryptoMarathonRunner/Crypto/refs/heads/main/logo.png",
+  "attributes": [
+    {"trait_type": "Rarity", "value": "Legendary"},
+    {"trait_type": "Edition", "value": "First"}
+  ]
+}
+
